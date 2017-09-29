@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LanguageTranslator</string>
+    <string name="action_settings">Settings</string>
+
+        <string name="tap_text">नीचे दिए गए किसी भी भाषा का चयन करें :</string>
+        <string name="btn_en">अंग्रेज़ी</string>
+        <string name="btn_hi">हिंदी</string>
+
+
+</resources>
